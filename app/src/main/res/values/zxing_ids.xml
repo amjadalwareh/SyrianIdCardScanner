@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item name="zxing_decode" type="id" />
+    <item name="zxing_decode_failed" type="id" />
+    <item name="zxing_decode_succeeded" type="id" />
+    <item name="zxing_possible_result_points" type="id" />
+    <item name="zxing_back_button" type="id" />
+    <item name="zxing_prewiew_size_ready" type="id" />
+    <item name="zxing_camera_error" type="id" />
+</resources>

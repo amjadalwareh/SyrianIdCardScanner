@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarcodeMobileReader</string>
+    <string name="zxing_msg_default_status">قم بمسح الرمز الشريطي ضمن حدود الكاميرا</string>
+</resources>
