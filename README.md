@@ -1,1 +1,1 @@
-# SyrianIdCardScanner
+# Syrian Id Card Scanner
